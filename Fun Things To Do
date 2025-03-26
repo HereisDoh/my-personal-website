@@ -1,1 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Machu Picchu - A Wonder of the World</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Discover Machu Picchu</h1>
+        <p>One of the many fun things to do in Peru, is to go to one of the 7 world wonders, Machu Picchu. Machu Picchu was created by the Inca's in 1450, and it is the ruins of an unfinished city almost 8,000 feet high. It towers over the Urubamba River, which is 3,000 feet below. The Inca's actually didn't get their water from the river, but they let it flow down from the ice caps on the top of the mountain. The Inca's were very innovative, and though the city is unfinished, it remains high and beautiful. It is no wonder that it is one of the 7 wonders of the world.</p>
+    </div>
+</body>
+</html>
 
