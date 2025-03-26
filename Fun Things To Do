@@ -25,13 +25,20 @@
             font-size: 16px;
             line-height: 1.6;
         }
+        a {
+            color: #3498db;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Discover Machu Picchu</h1>
-        <p>One of the many fun things to do in Peru, is to go to one of the 7 world wonders, Machu Picchu. Machu Picchu was created by the Inca's in 1450, and it is the ruins of an unfinished city almost 8,000 feet high. It towers over the Urubamba River, which is 3,000 feet below. The Inca's actually didn't get their water from the river, but they let it flow down from the ice caps on the top of the mountain. The Inca's were very innovative, and though the city is unfinished, it remains high and beautiful. It is no wonder that it is one of the 7 wonders of the world.</p>
+        <p>One of the many <a href="fun.html">fun things to do in Peru</a>, is to go to one of the 7 world wonders, Machu Picchu. Machu Picchu was created by the Inca's in 1450, and it is the ruins of an unfinished city almost 8,000 feet high. It towers over the Urubamba River, which is 3,000 feet below. The Inca's actually didn't get their water from the river, but they let it flow down from the ice caps on the top of the mountain. The Inca's were very innovative, and though the city is unfinished, it remains high and beautiful. It is no wonder that it is one of the 7 wonders of the world.</p>
     </div>
 </body>
 </html>
-
